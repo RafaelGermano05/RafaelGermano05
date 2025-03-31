@@ -29,6 +29,6 @@
 ### 📊 Status do Github
 
 <div>
-  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=RafaelGermano05&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues">
-  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGermano05&theme=tokyonight&hide_progress=true&show_icons=true">
+  <img loading="lazy" height="145em" src="https://github-readme-stats.vercel.app/api?username=RafaelGermano05&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues">
+  <img loading="lazy" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGermano05&theme=tokyonight&hide_progress=true&show_icons=true">
 </div>
