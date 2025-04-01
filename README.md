@@ -21,7 +21,7 @@
 ### 📚 Estudando
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=django,flask,postgres" />
+  <img src="https://skillicons.dev/icons?i=django,flask,postgres,r" />
 </a>
 
 
