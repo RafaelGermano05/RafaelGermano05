@@ -46,7 +46,4 @@
   </a>
 </p>
 
-<!-- 
-"Efeito" de digitação simulado (apenas visual) 
-Adicione este comentário para simular que há uma animação
--->
+
