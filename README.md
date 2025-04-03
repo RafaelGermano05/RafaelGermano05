@@ -27,8 +27,8 @@
 ### 📊 Status do Github
 
 <div>
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelGermano05&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues">
-  <img loading="lazy" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGermano05&theme=tokyonight&hide_progress=true&show_icons=true">
+  <img loading="lazy" height="151em" src="https://github-readme-stats.vercel.app/api?username=RafaelGermano05&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues">
+  <img loading="lazy" height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGermano05&theme=tokyonight&hide_progress=true&show_icons=true">
 </div>
 
 ### 🔥 GitHub Streak
