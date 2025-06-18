@@ -21,7 +21,7 @@
 ### 📚 Estudando Atualmente
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,postgres,r" title="Django, Flask, PostgreSQL, R" />
+  <img src="https://skillicons.dev/icons?i=django,flask,postgres,r" title="Django, PostgreSQL, R" />
 </p>
 
 ### 📊 Status do Github
